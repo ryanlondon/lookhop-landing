@@ -1,0 +1,48 @@
+<svg width="440" height="428" viewBox="0 0 440 428" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Frame</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-235 215)">
+<clipPath id="clip-0" clip-rule="evenodd">
+<path d="M 235 -215L 675 -215L 675 213L 235 213L 235 -215Z" fill="#FFFFFF"/>
+</clipPath>
+<g id="Frame" clip-path="url(#clip-0)">
+<g id="Ellipse 2">
+<use xlink:href="#path0_fill" transform="translate(255 -195)" fill="url(#paint0_linear)"/>
+</g>
+<g id="Ellipse">
+<mask id="mask0_outline_ins">
+<use xlink:href="#path1_fill" fill="white" transform="translate(255 -190)"/>
+</mask>
+<g mask="url(#mask0_outline_ins)">
+<use xlink:href="#path2_stroke_2x" transform="translate(255 -190)" fill="#F3F3F3"/>
+</g>
+</g>
+<g id="Ellipse">
+<mask id="mask1_outline_ins">
+<use xlink:href="#path1_fill" fill="white" transform="translate(263 -192)"/>
+</mask>
+<g mask="url(#mask1_outline_ins)">
+<use xlink:href="#path3_stroke_2x" transform="translate(263 -192)" fill="#F3F3F3"/>
+</g>
+</g>
+<g id="Ellipse">
+<mask id="mask2_outline_ins">
+<use xlink:href="#path1_fill" fill="white" transform="translate(271 -195)"/>
+</mask>
+<g mask="url(#mask2_outline_ins)">
+<use xlink:href="#path2_stroke_2x" transform="translate(271 -195)" fill="#F3F3F3"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(189.109 356.172 -366.27 183.896 287.561 -72.2448)">
+<stop offset="0" stop-color="#211D1D"/>
+<stop offset="1" stop-color="#A63737"/>
+</linearGradient>
+<path id="path0_fill" d="M 399 194C 399 301.143 309.681 388 199.5 388C 89.3192 388 0 301.143 0 194C 0 86.8568 89.3192 0 199.5 0C 309.681 0 399 86.8568 399 194Z"/>
+<path id="path1_fill" d="M 383 191.5C 383 297.263 297.263 383 191.5 383C 85.7375 383 0 297.263 0 191.5C 0 85.7375 85.7375 0 191.5 0C 297.263 0 383 85.7375 383 191.5Z"/>
+<path id="path2_stroke_2x" d="M 381 191.5C 381 296.158 296.158 381 191.5 381L 191.5 385C 298.367 385 385 298.367 385 191.5L 381 191.5ZM 191.5 381C 86.842 381 2 296.158 2 191.5L -2 191.5C -2 298.367 84.6329 385 191.5 385L 191.5 381ZM 2 191.5C 2 86.842 86.842 2 191.5 2L 191.5 -2C 84.6329 -2 -2 84.6329 -2 191.5L 2 191.5ZM 191.5 2C 296.158 2 381 86.842 381 191.5L 385 191.5C 385 84.6329 298.367 -2 191.5 -2L 191.5 2Z"/>
+<path id="path3_stroke_2x" d="M 379 191.5C 379 295.053 295.053 379 191.5 379L 191.5 387C 299.472 387 387 299.472 387 191.5L 379 191.5ZM 191.5 379C 87.9466 379 4 295.053 4 191.5L -4 191.5C -4 299.472 83.5283 387 191.5 387L 191.5 379ZM 4 191.5C 4 87.9466 87.9466 4 191.5 4L 191.5 -4C 83.5283 -4 -4 83.5283 -4 191.5L 4 191.5ZM 191.5 4C 295.053 4 379 87.9466 379 191.5L 387 191.5C 387 83.5283 299.472 -4 191.5 -4L 191.5 4Z"/>
+</defs>
+</svg>
